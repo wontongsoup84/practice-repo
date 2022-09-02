@@ -1,27 +1,27 @@
-## First Name Last Name
+## Hamilton Becker
 
-### Term Year 
+### 2022
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Chemistry 1
 
-- Course 2
+- Intro to Computation and Programming
 
-- Course 3
+- Intro to Data Science
 
-- Course 4
+- Python for Data Analyitics
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Lacrosse
 
-- Thing 2
+- Video games
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Watching movies
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/09/02
